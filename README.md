@@ -24,7 +24,7 @@ This script automates the process of backing up files that have been modified wi
 2. Make the script executable:
     ```bash
     chmod +x backup.sh
-    ```
+    ``` 
 
 3. Run the script with two directory paths as arguments: the target directory (source) and the destination directory (where the backup will be moved):
     ```bash
